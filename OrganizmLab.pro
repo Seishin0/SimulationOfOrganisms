@@ -12,8 +12,7 @@ SOURCES += \
         organizm.cpp \
         osobniki.cpp \
         srodowisko.cpp \
-        zlab09.cpp \
-        zlab12.cpp
+
 
 HEADERS += \
     generatorlosowy.h \
@@ -23,5 +22,4 @@ HEADERS += \
     osobniki.h \
     srodowisko.h \
     ustawienia.h \
-    zlab09.h \
-    zlab12.h
+
